@@ -1,4 +1,4 @@
-// document[0].children[0].children['tagName']
+document[0].children[0].children['tagName']
 
 var document = [
   {
@@ -44,4 +44,4 @@ var document = [
   }
 ]
 
-console.log(document[0].children[0].children['tagName']);
+console.log(myDocument[0].children[0].children['tagName']);
