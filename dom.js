@@ -44,4 +44,4 @@ var document = [
   }
 ]
 
-console.log(myDocument[0].children[0].children['tagName']);
+console.log(document[0].children[0].children['tagName']);
