@@ -1,4 +1,4 @@
-document[0].children[0].children['tagName']
+// document[0].children[0].children['tagName']
 
 var document = [
   {
